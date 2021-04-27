@@ -1,0 +1,6 @@
+# VS config and build folders
+out/
+.vs/
+
+# VS-specific CMake config
+CMakeSettings.json
